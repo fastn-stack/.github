@@ -5,4 +5,4 @@
 - [Video Course To Learn `fastn`/`ftd`](https://fastn.io/expander/)
 - [`fastn` and `ftd` documentation](https://fastn.io/docs/)
 
-Twitter: [@FTDLang](https://twitter.com/FTDLang) | [Discord](https://discord.gg/xN3uD8P7WA)
+Join us on [Discord](https://discord.gg/xN3uD8P7WA), or head over to [our forum](https://github.com/fastn-stack/fastn/discussions) for questions.
