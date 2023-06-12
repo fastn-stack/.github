@@ -1,4 +1,4 @@
-[`fastn`](https://fastn.io) fastn is an open-source, full-stack framework that simplifies the creation of content-heavy websites. Its custom language, [`FTD`](https://fastn.io/ftd/), is designed for easy learning. 
+[`fastn`](https://fastn.io) is an open-source, full-stack framework that simplifies the creation of content-heavy websites. Its custom language, [`FTD`](https://fastn.io/ftd/), is designed for easy learning. 
 
 - [Learn More](https://fastn.com/home/)
 - [Get Started](https://fastn.com/setup/)
