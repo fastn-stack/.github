@@ -1,7 +1,7 @@
 [`fastn`](https://fastn.com) is an open-source, full-stack framework that simplifies the creation of content-heavy websites. Its custom language, [`FTD`](https://fastn.com/ftd/), is designed for easy learning. 
 
 - [Learn More](https://fastn.com/home/)
-- [Get Started](https://fastn.com/setup/)
+- [Get Started](https://fastn.com/learn/)
 - [Install fastn](https://fastn.com/install/)
 
 # Explore fastn, your way!
