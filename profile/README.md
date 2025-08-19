@@ -1,38 +1,34 @@
-[`fastn`](https://fastn.com) is an open-source, full-stack framework that simplifies the creation of content-heavy websites. Its custom language, [`FTD`](https://fastn.com/ftd/), is designed for easy learning. 
+`fastn` is a programming language and a web-framework for building user
+interfaces and content-centric websites. `fastn` is easy to learn, especially
+for non-programmers, but does not compromise on what you can build with it.
 
-- [Learn More](https://fastn.com/home/)
-- [Get Started](https://fastn.com/learn/)
-- [Install fastn](https://fastn.com/install/)
+Install from https://fastn.com/install/ or download directly from [GitHub
+Releases](https://github.com/fastn-stack/fastn/releases).
 
-# Explore fastn, your way!
+See [the README](https://github.com/fastn-stack/fastn?tab=readme-ov-file)
+of fastn or visit https://fastn.com/ to learn more.
 
-Discover your role in the fastn ecosystem and explore resources tailored to your needs. 
+We're currently working on `fastn` 0.5. It will add support for making
+offline-first p2p apps based on [iroh](https://github.com/n0-computer/iroh) and
+[automerge](https://github.com/automerge/automerge) along with some breaking
+changes to the language.
 
-### Frontend
+To learn more, see:
 
-> New to programming? Explore fastn to kickstart your journey. Check out our [Expander Crash Course](https://fastn.com/expander/)
-
-### Create Website
-
-> Build your website quickly and easily with fastn. Watch [Video Tutorials](https://fastn.com/expander/hello-world/-/build/)
-
-### Fullstack
-
-> Are you a developer or aspiring to be one? Learn fastn, the full-stack web development framework. [Click here to explore](https://fastn.com/backend/).
-
-### Design
-
-> Level up your web design with fastn. [Click here to learn more](https://fastn.com/figma/).
-
-# fastn Community
-
-Join our vibrant [fastn-community](https://github.com/fastn-community), contribute to the project, and get support from fellow developers and creators. 
-
-# Become a fastn-trailblazer
-
-- [Join our Discord Server](https://discord.gg/bucrdvptYd) to connect with other fastn enthusiasts and stay up to date with the latest developments.
-- [Star us on GitHub](https://github.com/fastn-stack/fastn/)
+- [0.5 ARCHITECTURE.md](https://github.com/fastn-stack/fastn/blob/main/v0.5/ARCHITECTURE.md).
+- [Video discussion on YouTube](https://www.youtube.com/watch?v=H9d1Dn8Jn0I).
+- [Existing github discussions](https://github.com/orgs/fastn-stack/discussions?discussions_q=is%3Aopen+label%3A0.5-brainstorm).
 
 # Get Support
 
-Head over to [our forum](https://github.com/fastn-stack/fastn/discussions) for questions.
+Join our [discord](https://fastn.com/discord/) or create a 
+[new github discussion](https://github.com/orgs/fastn-stack/discussions).
+
+# Donate
+
+Donations are accepted through Open Collective: https://opencollective.com/fastn/.
+
+# Other projects
+
+- [ft-sdk](https://github.com/fastn-stack/ft-sdk): Rust SDK to help you make WASM modules with custom web backend handlers for fastn.
+- [Malai](https://github.com/fastn-stack/kulfi): Malai is a tool to expose any local service (HTTP, TCP and, SSH, etc.) to the world.
